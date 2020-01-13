@@ -1,6 +1,6 @@
 # Events Calendar 
 
-# Demo: https://jecika404.github.io/events
+# Demo: https://jecika404.github.io/
 
 App Events Calendar done
 
