@@ -1,3 +1,3 @@
 # Events Calendar 
-# Demo: www.celevents.com
+# Demo: jecika404.github.io
 
